@@ -1,0 +1,2 @@
+# tetriz
+juego de tetriz
